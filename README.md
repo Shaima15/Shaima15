@@ -8,5 +8,6 @@ In my free time, I work on personal projects with the goal of learning new skill
 
 
 ## Contacts 
-- LinkedIn: https://www.linkedin.com/in/shaima-abdikabir/
+- LinkedIn: [@SheymaAbdikebir](https://www.linkedin.com/in/shaima-abdikabir/)
+  
 
