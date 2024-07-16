@@ -6,6 +6,7 @@ Hello, I am Sheyma, a Data Analyst Candidate at the University of South Dakota. 
 
 In my free time, I work on personal projects with the goal of learning new skills and statistical methods in order to expand my knowledge. My work and educational experiences allowed me to develop my technical skills which I am eager to demonstrate as an entry-level Data Scientist. 
 
+**Tableau:** [@SheymaAbdikebir](https://public.tableau.com/app/profile/sheyma.abdikebir/vizzes)
 
 ## Contacts 
 - LinkedIn: [@SheymaAbdikebir](https://www.linkedin.com/in/shaima-abdikabir/)
