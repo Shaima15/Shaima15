@@ -1,4 +1,4 @@
-# Sheyma Abdikebir- Data Scientist Portfolio 
+# Sheyma Abdikebir- Data Analyst Portfolio 
 
 ## About
 
